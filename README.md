@@ -1,3 +1,3 @@
 # restaurant-website
 my first repository.
-this is a restaurant website created using html and css.
+It is a restaurant website created using html and css with some icons and images.
