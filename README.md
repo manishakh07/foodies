@@ -1,3 +1,3 @@
 # restaurant-website
-my first repo
+my first repository.
 this is a restaurant website created using html and css.
